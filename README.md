@@ -1,2 +1,2 @@
 # SmithyThemes
-Themes and Color Schemes various applications
+Themes and Color Schemes for various applications
